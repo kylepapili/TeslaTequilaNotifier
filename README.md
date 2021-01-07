@@ -8,6 +8,7 @@ A Notification Script For The Acquisition of Tesla Tequila
 
 # Usage
 Clone the Repository
+
     git clone https://github.com/kylepapili/TeslaTequilaNotifier.git
     
 Setup a [Slack Workspace](https://slack.com/help/articles/206845317-Create-a-Slack-workspace)
@@ -22,4 +23,5 @@ https://stackoverflow.com/questions/60198159/slack-api-conversations-history-ret
 Update the *slackToken.txt* file with your Slack App Token
 
 Run the Script
+
     python notifier.py
