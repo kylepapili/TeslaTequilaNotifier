@@ -1,6 +1,9 @@
 # TeslaTequilaNotifier
 A Notification Script For The Acquisition of Tesla Tequila
 
+![Image of Tesla Tequila](https://teslatequila.tesla.com/static/3ca9efa457040d7e7ffa1988d2dbcc41/f6840/tesla-tequila-product%402x.jpg)
+
+
 # Join The Instant Notification Slack Workspace
 
 # Usage
