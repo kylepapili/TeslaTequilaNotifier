@@ -4,7 +4,8 @@ A Notification Script For The Acquisition of Tesla Tequila
 ![Image of Tesla Tequila](https://teslatequila.tesla.com/static/3ca9efa457040d7e7ffa1988d2dbcc41/f6840/tesla-tequila-product%402x.jpg)
 
 
-# Join The Instant Notification Slack Workspace
+# Join The [Instant Notification Slack Workspace](http://papili.us/teslatequila)
+I have created a website for users to join the Tesla Instant Notification System. This eliminates the need for you to go through the difficulties associated with running this program at all times.
 
 # Usage
 Clone the Repository
